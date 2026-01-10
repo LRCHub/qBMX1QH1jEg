@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "動く、動く",
+  "base_artist": "チト（CV：水瀬いのり）、ユーリ（CV：久保ユリカ）",
+  "createdAt": "2026-01-10T05:46:43.969332Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "動く、動く",
+      "artist": "チト(CV:水瀬いのり)、ユーリ(CV:久保ユリカ)",
+      "has_synced": true,
+      "path": "select/01_動く、動く_チト(CV_水瀬いのり)、ユーリ(CV_久保ユリカ).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "動く、動く",
+      "artist": "チト（CV：水瀬いのり）、ユーリ（CV：久保ユリカ）",
+      "has_synced": false,
+      "path": "select/02_動く、動く_チト(CV_水瀬いのり)、ユーリ(CV_久保ユリカ).txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "動く、動く",
+      "artist": "チト(CV:水瀬いのり)、ユーリ(CV:久保ユリカ)",
+      "has_synced": true,
+      "path": "select/03_動く、動く_チト(CV_水瀬いのり)、ユーリ(CV_久保ユリカ).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "動く、動く",
+      "artist": "チト(CV:水瀬いのり), ユーリ(CV:久保ユリカ)",
+      "has_synced": false,
+      "path": "select/04_動く、動く_チト(CV_水瀬いのり),_ユーリ(CV_久保ユリカ).txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "動く、動く",
+      "artist": "チト(CV:水瀬いのり)",
+      "has_synced": true,
+      "path": "select/05_動く、動く_チト(CV_水瀬いのり).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "動く、動く (チトver.)",
+      "artist": "チトver.",
+      "has_synced": true,
+      "path": "select/06_動く、動く_(チトver.)_チトver..lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "動く、動く",
+      "artist": "チト(cv:水瀬いの゚)、ユーリ(cv:久保ユリカ)",
+      "has_synced": true,
+      "path": "select/07_動く、動く_チト(cv_水瀬いの゚)、ユーリ(cv_久保ユリカ).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "動く、動く",
+      "artist": "チト(水瀬いのり)、ユーリ(久保ユリカ)",
+      "has_synced": true,
+      "path": "select/08_動く、動く_チト(水瀬いのり)、ユーリ(久保ユリカ).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "動く、動く",
+      "artist": "水瀬いのり",
+      "has_synced": true,
+      "path": "select/09_動く、動く_水瀬いのり.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "動く、動く",
+      "artist": "水瀬いのり/久保ユリカ",
+      "has_synced": true,
+      "path": "select/10_動く、動く_水瀬いのり_久保ユリカ.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "動く、動く",
+      "artist": "チト",
+      "has_synced": true,
+      "path": "select/11_動く、動く_チト.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "動く、動く",
+      "artist": "チト/ユーリ(水瀬いのり/久保ユリカ)",
+      "has_synced": false,
+      "path": "select/pl_01_動く、動く_チト_ユーリ(水瀬いのり_久保ユリカ).txt"
+    }
+  ]
+}
